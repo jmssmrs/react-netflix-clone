@@ -7,6 +7,5 @@ Demo username: test@test.com
 Demo password: thisisatest
 
 
-
-https://user-images.githubusercontent.com/77645137/146926633-d6443e58-1ee9-42e5-8541-0d2d9f07025e.mp4
+https://user-images.githubusercontent.com/77645137/146929454-e7e2340d-2138-447d-93bc-407bbec48f8c.mp4
 
